@@ -25,3 +25,4 @@ GROUP BY
   skills_dim.skills 
 ORDER BY
   avg_salary DESC; 
+
