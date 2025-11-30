@@ -44,18 +44,27 @@ ORDER BY
     salary_year_avg DESC;
 
 /*
-High-paying data analyst roles in 2023 show a clear skill hierarchy.
-SQL is the top requirement, proving that companies still depend heavily on relational databases and need analysts strong in querying and data extraction.
+1. SQL Dominates the Skill Landscape
 
-Python comes next, showing that analysts are expected to handle automation, data cleaning, and basic machine-learning workflows. Libraries like Pandas and NumPy appearing separately strengthen its importance.
+SQL appears the most, confirming it is still the core requirement for top-paying analyst roles. Companies rely heavily on relational databases, and high salaries go to analysts who can extract, transform, and analyze large datasets efficiently. In 2025, SQL remains the foundation of every strong analytics workflow.
 
-Tableau follows in third place, highlighting the need for strong visualization and dashboard-building abilities for business reporting.
+2. Python Is Essential in Modern Analytics
 
-R appears moderately, mainly for statistics-heavy or research-focused roles.
+Python is the second most requested skill, showing how analysts are expected to move beyond spreadsheets into automation, advanced data manipulation, and basic ML tasks. With tools like Pandas and NumPy, Python enables analysts to deliver faster and deeper insights, making it a must-have for high-impact roles.
 
-Skills like Snowflake, Pandas, and Excel form the next tier, reflecting the shift toward cloud data warehouses, advanced data manipulation, and the ongoing relevance of spreadsheets.
+3. Engineering Skills Are Rapidly Growing (Go, Node, Kubernetes)
 
-Less frequent but valuable differentiator skills include Azure, Bitbucket, and Go, which show increasing overlap between analytics and engineering.
+The presence of Go, Node.js, and Kubernetes shows that analyst roles are shifting closer to analytics engineering. Companies want analysts who understand backend systems, APIs, and scalable data pipelines, blurring the line between analysts and engineers. These skills heavily increase earning potential.
 
-Finally, tools such as PySpark, Databricks, Hadoop, Git, and Jupyter appear in more specialized roles, usually involving big-data or advanced technical workflows.
+4. Visualization Tools Remain Critical (Tableau, Looker, Power BI)
+
+Visualization tools still matter, with Tableau, Looker, and Power BI appearing across top roles. Organizations rely on clear dashboards and data stories to guide decisions, so analysts must translate complex findings into visuals stakeholders can understand. Good communication remains as important as technical skill.
+
+5. Modern Data Stack Technologies Are Increasingly Common
+
+Tools like GraphQL, Git, Databricks, and PySpark reflect the rise of the modern data stack. High-paying companies expect analysts to collaborate in engineering-heavy environments, manage versioned analytics code, and work with big data efficiently. These tools help analysts operate at scale.
+
+6. Traditional Business Tools Still Matter
+
+Excel and PowerPoint still appear, proving that traditional business tools remain essential. Executives and stakeholders still depend on models and presentations for decision-making. The best analysts combine strong technical abilities with clear business communication.
 */
